@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - COLservispago</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidad de COLservispago</h1>
+    <p><strong>Fecha de entrada en vigencia:</strong> 19 de marzo de 2025</p>
+    
+    <h2>1. Introducción</h2>
+    <p>Bienvenido a COLservispago. Nos comprometemos a proteger la privacidad y seguridad de la información personal de nuestros usuarios...</p>
+    
+    <h2>2. Datos Recopilados</h2>
+    <p>Para la prestación de nuestros servicios, recopilamos la siguiente información: Nombre completo, número de cédula, cuentas bancarias, plataformas de pago, credenciales de acceso, entre otros.</p>
+    
+    <h2>3. Finalidad del Tratamiento de los Datos</h2>
+    <p>Los datos serán utilizados para gestionar transacciones, verificar identidad, proporcionar soporte y cumplir con regulaciones legales.</p>
+    
+    <h2>4. Almacenamiento y Protección de Datos</h2>
+    <p>Implementamos medidas de seguridad para proteger la información contra accesos no autorizados.</p>
+    
+    <h2>5. Compartición de Datos con Terceros</h2>
+    <p>Podemos compartir información con entidades bancarias, pasarelas de pago y autoridades regulatorias.</p>
+    
+    <h2>6. Asunción de Riesgos Financieros</h2>
+    <p>El usuario acepta que cualquier transacción financiera implica riesgos inherentes. COLservispago no se hace responsable por pérdidas, fraudes o errores.</p>
+    
+    <h2>7. Derechos de los Usuarios</h2>
+    <p>Los usuarios pueden acceder, modificar o eliminar sus datos personales.</p>
+    
+    <h2>8. Contacto</h2>
+    <p>Para consultas, contáctenos en: contacto@colservispago.com</p>
+</body>
+</html>
